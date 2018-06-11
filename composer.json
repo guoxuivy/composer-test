@@ -1,0 +1,13 @@
+{
+    "name": "sean/composer-test",
+    "description": "test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "guoxuivy",
+            "email": "guoxuivy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
